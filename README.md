@@ -13,11 +13,13 @@ there was that one day i had like 160 commits it was crazy bruh
 
 i help do zen browser occasionally
 
-lead infra dev of idktheflag
+lead infra dev of idktheflag (former)
+founder of team chordjack
 
 porsonal website: [https://riverxia.vercel.app](https://riverxia.vercel.app)
 i would make it .idktheflag.sh but i forgot what account i signed up for vercel with :skull:
 
-idktheflag site (i maintain): [https://idktheflag.sh](https://idktheflag.sh)
+idktheflag site (i formerly maintained): [https://idktheflag.sh](https://idktheflag.sh)
 
-P.S. do not contact me at my idktheflag email rn; i havent been checking it ever since our email infra broke and it just redirects to the email-i-dont-check-except-every-year
+
+go team chordjack!!!
