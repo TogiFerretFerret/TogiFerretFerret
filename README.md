@@ -16,8 +16,8 @@ i help do zen browser occasionally
 lead infra dev of idktheflag (former)
 founder of team chordjack
 
-porsonal website: [https://riverxia.vercel.app](https://riverxia.vercel.app)
-i would make it .idktheflag.sh but i forgot what account i signed up for vercel with :skull:
+porsonal website: [https://riverxia.sh](https://riverxia.sh)
+
 
 idktheflag site (i formerly maintained): [https://idktheflag.sh](https://idktheflag.sh)
 
