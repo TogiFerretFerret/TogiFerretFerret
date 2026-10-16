@@ -6,7 +6,7 @@ nvim for life (emacs trash)
 
 contribution graph go brr
 
-![whee](https://github-readme-activity-graph.vercel.app/graph?username=TogiFerretFerret&bg_color=1B2B48&color=38b6ff&line=38b6ff&point=ffffff&area=true&hide_border=true)
+![whee](https://github-act-graph.rodriaum.com/graph?username=TogiFerretFerret&bg_color=1B2B48&color=38b6ff&line=38b6ff&point=ffffff&area=true&hide_border=true)
 
 
 there was that one day i had like 160 commits it was crazy bruh
