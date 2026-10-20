@@ -9,7 +9,7 @@ contribution graph go brr
 ![whee](https://github-act-graph.rodriaum.com/graph?username=TogiFerretFerret&bg_color=1B2B48&color=38b6ff&line=38b6ff&point=ffffff&area=true&hide_border=true)
 
 
-there was that one day i had like 160 commits it was crazy bruh
+there was that one day i had like 450 commits it was crazy bruh
 
 i help do zen browser occasionally
 
