@@ -19,7 +19,4 @@ founder of team chordjack
 porsonal website: [https://riverxia.sh](https://riverxia.sh)
 
 
-idktheflag site (i formerly maintained): [https://idktheflag.sh](https://idktheflag.sh)
-
-
 go team chordjack!!!
