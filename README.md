@@ -16,7 +16,5 @@ i help do zen browser occasionally
 lead infra dev of idktheflag (former)
 founder of team chordjack
 
-porsonal website: [https://riverxia.sh](https://riverxia.sh)
-
 
 go team chordjack!!!
