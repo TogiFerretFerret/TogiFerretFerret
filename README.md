@@ -2,7 +2,7 @@ arch btw (hyprland btw)
 
 dots: [https://github.com/TogiFerretFerret/dotfiles/blob/main/README.md](https://github.com/TogiFerretFerret/dotfiles/blob/main/README.md)
 
-nvim for life (emacs trash)
+nvim for life
 
 contribution graph go brr
 
